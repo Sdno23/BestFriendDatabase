@@ -10,9 +10,9 @@
  * Lecturer's Name: C. Charters
  */
 
-package BestFriendDatabase;
+package bestfrienddatabase;
 
-import BestFriendDatabase.BestFriend;
+import bestfrienddatabase.BestFriend;
 
 /**
  *
