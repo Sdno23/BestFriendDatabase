@@ -3,14 +3,14 @@
  *
  * @version 1.0 09/06/2020
  *
- * Title: Brst Friend Array Tester
+ * Title: Best Friend Array Tester
  *
  * Semester: Fall 2020
  *
  * Lecturer's Name: C. Charters
  */
 
-package main;
+package BestFriendDatabase;
 
 import java.util.Objects;
 
