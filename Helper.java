@@ -1,5 +1,5 @@
 /*
- * @author 3156908
+ * @author XXXXX908
  *
  * @version 1.0 09/06/2020
  *
@@ -10,13 +10,13 @@
  * Lecturer's Name: C. Charters
  */
 
-package main;
+package BestFriendDatabase;
 
-import main.BestFriend;
+import BestFriendDatabase.BestFriend;
 
 /**
  *
- * @author 3156908
+ * @author XXXXX08
  * 
  */
  
