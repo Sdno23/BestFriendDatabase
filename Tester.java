@@ -10,10 +10,10 @@
  * Lecturer's Name: C. Charters
  */
 
-package BestFriendDatabase;
+package bestfrienddatabase;
  
-import BestFriendDatabase.BestFriend;
-import BestFriendDatabase.Helper;
+import bestfrienddatabase.BestFriend;
+import bestfrienddatabase.Helper;
 import java.util.Scanner;
 
 /**
